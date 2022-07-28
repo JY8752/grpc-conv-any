@@ -1,5 +1,6 @@
 # grpc-conv-any
 grpcレスポンスで取得したany型のバイナリデータを変換する。
+→kotlin x springの場合、any型の値が型解決できなくてエラーになったけどgoはしなかった。kotlinもファイル指定すれば見れた。
 
 ## setup
 
